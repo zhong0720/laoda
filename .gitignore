@@ -16,5 +16,7 @@ buildNumber.properties
 
 **/.mvn
 **/target/
+**/README.md
+**/.gitignore
 
 .idea
